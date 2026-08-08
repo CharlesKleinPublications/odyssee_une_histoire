@@ -1,0 +1,510 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:wght@300;400;500;600&display=swap');
+
+
+/* =================================
+   BASE
+================================= */
+
+html,
+body {
+
+margin:0;
+padding:0;
+
+height:100%;
+
+background:#f4efe5;
+
+color:#28251f;
+
+font-family:"Literata", serif;
+
+}
+
+
+/* Texture papier */
+
+body::before {
+
+content:"";
+
+position:fixed;
+
+inset:0;
+
+background-image:url("../images/grain.png");
+
+background-repeat:repeat;
+
+opacity:.035;
+
+pointer-events:none;
+
+z-index:20;
+
+}
+
+
+/* Suppression éléments Quarto */
+
+#quarto-header {
+
+display:none;
+
+}
+
+
+#quarto-content {
+
+padding:0 !important;
+
+margin:0 !important;
+
+}
+
+
+main {
+
+padding:0 !important;
+
+margin:0 !important;
+
+height:100vh;
+
+}
+
+
+
+/* =================================
+   STRUCTURE DES PAGES
+================================= */
+
+
+.page {
+
+height:100vh;
+
+width:100vw;
+
+display:none;
+
+justify-content:center;
+
+align-items:center;
+
+overflow:hidden;
+
+position:relative;
+
+}
+
+
+
+.page:first-child {
+
+display:flex;
+
+}
+
+
+
+.fade {
+
+animation:
+
+fadePage 1.4s cubic-bezier(.22,.61,.36,1);
+
+}
+
+
+
+@keyframes fadePage {
+
+
+from {
+
+opacity:0;
+
+transform:translateY(18px);
+
+}
+
+
+to {
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+
+}
+
+
+
+/* =================================
+   COUVERTURE
+================================= */
+
+
+.cover {
+
+height:100vh;
+
+width:100vw;
+
+position:relative;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+overflow:hidden;
+
+}
+
+
+
+.cover-image {
+
+position:absolute;
+
+inset:0;
+
+width:100%;
+
+height:100%;
+
+object-fit:cover;
+
+filter:brightness(.72);
+
+}
+
+
+
+.cover-text {
+
+position:relative;
+
+z-index:2;
+
+text-align:center;
+
+color:#f7f1e6;
+
+max-width:700px;
+
+padding:3rem;
+
+display:flex;
+
+flex-direction:column;
+
+align-items:center;
+
+}
+
+
+
+.cover-text h1 {
+
+font-size:5rem;
+
+font-weight:300;
+
+letter-spacing:.08em;
+
+margin:0;
+
+}
+
+
+
+.cover-text h2 {
+
+font-size:2rem;
+
+font-weight:300;
+
+letter-spacing:.05em;
+
+margin-top:1rem;
+
+}
+
+
+
+.cover-text p {
+
+font-size:1.1rem;
+
+line-height:1.8;
+
+font-weight:300;
+
+margin-top:3rem;
+
+max-width:520px;
+
+}
+
+
+
+/* =================================
+   BOUTON ENTRER
+================================= */
+
+
+.enter {
+
+margin-top:4rem;
+
+background:transparent;
+
+border:none;
+
+color:#f7f1e6;
+
+font-family:"Literata",serif;
+
+font-size:.95rem;
+
+letter-spacing:.25em;
+
+cursor:pointer;
+
+padding:12px 25px;
+
+display:inline-block;
+
+opacity:.85;
+
+transition:opacity .3s ease;
+
+}
+
+
+
+.enter:hover {
+
+opacity:1;
+
+}
+
+
+
+.enter::after {
+
+content:"";
+
+display:block;
+
+height:1px;
+
+background:#f7f1e6;
+
+width:40px;
+
+margin:12px auto 0;
+
+opacity:.5;
+
+}
+
+
+
+/* =================================
+   PHOTOGRAPHIES
+================================= */
+
+
+.photo-page img {
+
+max-width:90vw;
+
+max-height:90vh;
+
+object-fit:contain;
+
+}
+
+
+
+.caption {
+
+position:absolute;
+
+bottom:3vh;
+
+left:5vw;
+
+font-size:.75rem;
+
+letter-spacing:.15em;
+
+font-weight:300;
+
+opacity:.55;
+
+}
+
+
+
+/* =================================
+   NAVIGATION CLIC
+================================= */
+
+
+.nav-left,
+.nav-right {
+
+position:fixed;
+
+top:0;
+
+height:100vh;
+
+width:25%;
+
+z-index:30;
+
+cursor:pointer;
+
+}
+
+
+
+.nav-left {
+
+left:0;
+
+}
+
+
+
+.nav-right {
+
+right:0;
+
+}
+
+
+
+/* =================================
+   MOBILE
+================================= */
+
+
+@media(max-width:700px){
+
+
+.cover-text {
+
+padding:2rem;
+
+}
+
+
+.cover-text h1 {
+
+font-size:3rem;
+
+}
+
+
+.cover-text h2 {
+
+font-size:1.4rem;
+
+}
+
+
+.cover-text p {
+
+font-size:1rem;
+
+}
+
+
+.photo-page img {
+
+max-width:94vw;
+
+max-height:80vh;
+
+}
+
+
+.caption {
+
+left:5vw;
+
+bottom:3vh;
+
+}
+
+
+}
+
+/* =================================
+   MODE LIVRE PLEIN ECRAN
+================================= */
+
+
+html,
+body {
+
+overflow:hidden;
+
+}
+
+
+#quarto-content,
+#quarto-document-content,
+main.content {
+
+padding:0 !important;
+
+margin:0 !important;
+
+max-width:none !important;
+
+}
+
+
+
+#title-block-header {
+
+display:none !important;
+
+}
+
+
+
+.photo-page.page {
+
+height:100vh;
+
+width:100vw;
+
+padding:0;
+
+margin:0;
+
+}
+
+
+
+.photo-page img {
+
+max-width:92vw;
+
+max-height:90vh;
+
+object-fit:contain;
+
+}

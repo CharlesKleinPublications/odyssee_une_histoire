@@ -1,0 +1,171 @@
+---
+title: "Odyssée — Le Monolithe"
+format:
+  html:
+    toc: false
+---
+
+
+<div id="book">
+
+
+<!-- =========================
+     COUVERTURE
+========================= -->
+
+
+<section class="cover page">
+
+
+<img
+src="images/c-klein-0-monolithe-sur-nuages-avec-lune.jpg" class="cover-image"
+alt="Monolithe sur un ciel nocturne nuageux — Odyssée, Charles Klein"
+>
+
+
+<div class="cover-text">
+
+
+<h1>Odyssée  Le monolithe</h1>
+
+
+<h2>Notre histoire commune</h2>
+
+
+<p>
+Une méditation sur l'évolution
+de l'humanité
+</p>
+
+
+<a class="enter" href="#" onclick="next(); return false;">
+    Entrer →
+</a>
+
+
+</div>
+
+
+</section>
+
+
+
+
+<!-- =========================
+     PAGE TEXTE INTRODUCTION
+========================= -->
+
+::: {.text-page .page}
+
+::: {.text-content}
+
+## Une histoire, une odyssée, le monolithe
+
+C'est un récit photographique en 5 actes : le socle notre terre,l’eau source de vie,
+l’arbre, symbole de vie, pensées et croyances et les monolithes.
+Clin d’œil évident au film de Kubrick où ceux qui veulent poursuivre peuvent construire leur propore interprétation.
+Oui, les monolithes, ces irréels d’aujourd’hui que j’ai voulu témoins de notre monde malmené et qui ouvrent des portes je l’espère sur vos propres possibles …
+
+:::
+
+:::
+
+<!-- =========================
+     PAGE TEXTE le socle
+========================= -->
+
+::: {.text-page .page}
+
+::: {.text-content}
+
+## Le socle ....
+
+
+:::
+
+:::
+
+
+<!-- =========================
+     PHOTOGRAPHIE 01
+========================= -->
+
+
+<section class="photo-page page">
+
+
+<img src="images/c-klein-1-roche-falaise-trace.jpg"
+alt="Falaise avec trace d'une coulée — Odyssée, Charles Klein"
+>
+
+
+<div class="caption">
+
+Le socle, substrat de nos possibles
+</div>
+
+
+</section>
+
+
+
+
+<!-- =========================
+     PHOTOGRAPHIE 02
+========================= -->
+
+
+<section class="photo-page page">
+
+
+<img src="images/c-klein-2-roches-enpilees.jpg"
+alt="Roches empilées — Odyssée, Charles Klein"
+>
+
+
+<div class="caption">
+
+Le socle, substrat de nos possibles
+</div>
+
+
+</section>
+
+
+
+
+<!-- =========================
+     PHOTOGRAPHIE 03
+========================= -->
+
+
+<section class="photo-page page">
+
+
+<img src="images/c-klein-3-roche-fissure-naissance-vegetal.jpg"
+alt="Roche avec fissure- Eclosion de la vie — Odyssée, Charles Klein"
+>
+
+
+<div class="caption">
+
+Le socle, substrat de nos possibles
+</div>
+
+
+</section>
+
+<!-- =========================
+     FIN DU LIVRE
+========================= -->
+</div>
+
+<!-- Compteur -->
+
+<div id="page-counter"></div>
+
+<!-- Zones de navigation -->
+
+<div class="nav-left"></div>
+
+<div class="nav-right"></div>

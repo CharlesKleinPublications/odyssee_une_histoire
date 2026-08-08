@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Une histoire, une odyssée — Le Monolithe"
+  
+  navbar:
+    false
+
+
+
+title: "Odyssée — Le Monolithe"
+author: "Charles Klein"
+
+description: >
+  Publication photographique de Charles Klein. Un zine qui
+  illustre l'histoire de l'humanité et qui nous questionne.
+
+keywords:
+  - photographie d'auteur
+  - Charles Klein
+  - Une histoire
+  - Odyssée
+  - Le Monolithe
+  - photographie contemporaine
+
+canonical: "https://charleskleinpublications.github.io/odyssee-monolithe/"
+
+
+format:
+
+  html:
+    theme: none
+    css:
+      - css/monolithe.css
+
+    include-after-body: 
+     text: |
+      <script src="js/navigation.js"></script>
+
+    toc: false
+    page-layout: full
