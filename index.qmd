@@ -132,10 +132,30 @@ Le socle, substrat de nos possibles
 </section>
 
 
+<!-- =========================
+     PHOTOGRAPHIE 03
+========================= -->
+
+
+<section class="photo-page page">
+
+
+<img src="images/charles -klein-3-passage-dans-rochers.jpg"
+alt="Roche avec passage — Odyssée, Charles Klein"
+>
+
+
+<div class="caption">
+
+Le socle, substrat de nos possibles
+</div>
+
+
+</section>
 
 
 <!-- =========================
-     PHOTOGRAPHIE 03
+     PHOTOGRAPHIE 04
 ========================= -->
 
 
