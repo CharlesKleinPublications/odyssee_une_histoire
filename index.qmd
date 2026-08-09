@@ -162,7 +162,7 @@ Le socle, substrat de nos possibles
 <section class="photo-page page">
 
 
-<img src="images/c-klein-3-roche-fissure-naissance-vegetal.jpg"
+<img src="images/c-klein-4-roche-fissure-naissance-vegetal.jpg"
 alt="Roche avec fissure- Eclosion de la vie — Odyssée, Charles Klein"
 >
 
