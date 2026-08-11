@@ -87,7 +87,7 @@ Oui, les monolithes, ces irréels d’aujourd’hui que j’ai voulu témoins de
 
 
 <!-- =========================
-     PHOTOGRAPHIE 01
+     PHOTOGRAPHIE S01
 ========================= -->
 
 
@@ -111,7 +111,7 @@ Le socle, substrat de nos possibles
 
 
 <!-- =========================
-     PHOTOGRAPHIE 02
+     PHOTOGRAPHIE S02
 ========================= -->
 
 
@@ -133,7 +133,7 @@ Le socle, substrat de nos possibles
 
 
 <!-- =========================
-     PHOTOGRAPHIE 03
+     PHOTOGRAPHIE S03
 ========================= -->
 
 
@@ -155,7 +155,7 @@ Le socle, substrat de nos possibles
 
 
 <!-- =========================
-     PHOTOGRAPHIE 04
+     PHOTOGRAPHIE S04
 ========================= -->
 
 
@@ -174,6 +174,28 @@ Le socle, substrat de nos possibles
 
 
 </section>
+
+
+<!-- =========================
+     PAGE TEXTE Eau
+========================= -->
+
+::: {.text-page .page}
+
+::: {.text-content}
+
+## ... Eau ...
+D'abord, là où tout a commencé, l'océan.
+<br>
+Et puis, sources lacs et rivières.  
+
+Avec la pluie.
+
+
+:::
+
+:::
+
 
 <!-- =========================
      FIN DU LIVRE
