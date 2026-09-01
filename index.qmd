@@ -136,43 +136,30 @@ Le socle, substrat de nos possibles
      PHOTOGRAPHIE S03
 ========================= -->
 
-
 <section class="photo-page page">
-
-
 <img src="images/charles -klein-3-passage-dans-rochers.jpg"
 alt="Roche avec passage — Odyssée, Charles Klein"
 >
-
 
 <div class="caption">
 
 Le socle, substrat de nos possibles
 </div>
-
-
 </section>
-
 
 <!-- =========================
      PHOTOGRAPHIE S04
 ========================= -->
-
-
 <section class="photo-page page">
-
 
 <img src="images/c-klein-4-roche-face.jpg"
 alt="Roche de face - Comme un tableau - Odyssée, Charles Klein"
 >
 
-
 <div class="caption">
 
 Le socle, substrat de nos possibles
 </div>
-
-
 </section>
 
 
@@ -193,6 +180,20 @@ Avec la pluie.
 :::
 :::
 
+<!-- =========================
+     PHOTOGRAPHIE S05
+========================= -->
+<section class="photo-page page">
+
+<img src="images/c-klein-5-eau-nuit_lune.jpg"
+alt="Reflet de lune dans une eau sombre - Odyssée, Charles Klein"
+>
+
+<div class="caption">
+
+Eau
+</div>
+</section>
 
 <!-- =========================
      FIN DU LIVRE
