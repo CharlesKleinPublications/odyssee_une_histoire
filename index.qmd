@@ -214,13 +214,10 @@ Eau
      PHOTOGRAPHIE S07
 ========================= -->
 <section class="photo-page page">
-
 <img src="images/c-klein-7-océan-rivage.jpg"
 alt="Eau, océan, rivage, plage - Odyssée, Charles Klein"
 >
-
 <div class="caption">
-
 Eau
 </div>
 </section>
