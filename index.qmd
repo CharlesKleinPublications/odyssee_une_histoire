@@ -200,6 +200,79 @@ Germination
 </div>
 </section>
 
+<!-- =========================
+     PHOTOGRAPHIE S10
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-10-herbes-ciel.jpg"
+alt="L'herbe avant l'arbre - Odyssée, Charles Klein"
+>
+<div class="caption">
+L'Herbe avant l'arbre
+</div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S11
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-11-arbre-seul-ciel.jpg"
+alt="Arbre - Odyssée, Charles Klein"
+>
+<div class="caption">
+L'arbre
+</div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S12
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-13-roche-et-arbres.jpg"
+alt="Rocher et arbres - Odyssée, Charles Klein"
+>
+<div class="caption">
+Arbres et Rocher
+</div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S13
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-12-forêt.jpg"
+alt="La forêt comme apothéose - Odyssée, Charles Klein"
+>
+<div class="caption">
+La forêt comme apothéose
+</div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S14
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-14-arbre-mort.jpg"
+alt="Déclin, mort de l'arbre - Odyssée, Charles Klein"
+>
+<div class="caption">
+Déclin
+</div>
+</section>
+
+<!-- =========================
+     PAGE TEXTE Croyances
+========================= -->
+
+::: {.text-page .page}
+::: {.text-content}
+
+## Croyances ...
+
+<br>
+
+:::
+:::
 
 <!-- =========================
      FIN DU LIVRE
