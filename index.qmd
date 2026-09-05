@@ -1,5 +1,5 @@
 ---
-title: "Odyssée — Le Monolithe"
+title: "Odyssée ou Le Monolithe"
 format:
   html:
     toc: false
@@ -18,11 +18,10 @@ src="images/c-klein-0-monolithe-sur-nuages-avec-lune.jpg" class="cover-image"
 alt="Monolithe sur un ciel nocturne nuageux — Odyssée, Charles Klein"
 >
 <div class="cover-text">
-<h1>Odyssée  Le monolithe</h1>
+<h1>Odyssée ou Le monolithe</h1>
 <h2>Notre histoire commune</h2>
 <p>
-Une méditation sur l'évolution
-de l'humanité
+
 </p>
 
 <a class="enter" href="#" onclick="next(); return false;">
@@ -42,10 +41,10 @@ de l'humanité
 
 ## Une histoire, une odyssée, le monolithe
 
-C'est un récit photographique en 5 actes : le socle notre terre,l’eau source de vie,
-l’arbre, symbole de vie, pensées et croyances et les monolithes.
-Clin d’œil évident au film de Kubrick où ceux qui veulent poursuivre peuvent construire leur propore interprétation.
-Oui, les monolithes, ces irréels d’aujourd’hui que j’ai voulu témoins de notre monde malmené et qui ouvrent des portes je l’espère sur vos propres possibles …
+C'est un récit photographique en 5 actes : le socle notre terre ; l’eau source de vie ;
+l’arbre, symbole de vie ; pensées et croyances de l'homme conscient ; les monolithes.
+Clin d'œil évident au film de Kubrick : ceux qui veulent poursuivre peuvent construire leur propre interprétation.
+Oui, les monolithes, ces irréels d’aujourd’hui que j’ai voulus témoins de notre monde anthropique malmené et qui ouvrent des portes, je l’espère, sur vos propres possibles …
 
 :::
 :::
@@ -170,7 +169,7 @@ Eau
 alt="Rocher dans l'océan - Odyssée, Charles Klein"
 >
 <div class="caption">
-Eau
+Le rocher dans l'océan
 </div>
 </section>
 
@@ -196,7 +195,7 @@ Eau
 alt="Naissance - Germination dans la roche - Odyssée, Charles Klein"
 >
 <div class="caption">
-Germination
+Germination dans la roche
 </div>
 </section>
 
@@ -273,6 +272,56 @@ Déclin
 
 :::
 :::
+
+<!-- =========================
+     PHOTOGRAPHIE S15
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-15-chevaux_gravure_magdalénien.jpg"
+alt="Préhistoire, magdalénien, chevaux - Odyssée, Charles Klein"
+>
+<div class="caption">
+Magdalénien, la roche comme support
+</div>
+</section>
+
+
+<!-- =========================
+     PHOTOGRAPHIE S16
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-16-dolmen.jpg"
+alt="Dolmen- Celtes - Odyssée, Charles Klein"
+>
+<div class="caption">
+Néolithique, le rocher devient mégalithe
+</div>
+</section>
+
+
+<!-- =========================
+     PHOTOGRAPHIE S17
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-17-tombe-arbre.jpg"
+alt="Moyen Age, stèle granitique"
+>
+<div class="caption">
+Moyen Age, stèle granitique
+</div>
+</section>
+
+<!-- =========================
+     PHOTOGRAPHIE S18
+========================= -->
+<section class="photo-page page">
+<img src="images/c-klein-18-art-roman.jpg"
+alt="Art roman, Christ et diable"
+>
+<div class="caption">
+Art roman, Christ et diable dans le grès
+</div>
+</section>
 
 <!-- =========================
      FIN DU LIVRE
